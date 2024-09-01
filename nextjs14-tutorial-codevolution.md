@@ -7,8 +7,8 @@ Source:
 
 1. Introduction
 2. Hello World
-3.
-4.
+3. Project Structure
+4. Before We Start
 5.
 6.
 7.
@@ -21,3 +21,11 @@ Source:
 ### Create NextJS App
 
 `$ npx create-next-app@latest .`
+
+### Components
+
+RSC - React Server Components
+
+* Server Components - Can: run tasks; read files, fetch data from DB, Cannot: use hooks or handle user interaction
+* Client Components - Cannot: read files, Can: use hooks, mange interactions
+
