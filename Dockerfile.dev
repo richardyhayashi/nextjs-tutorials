@@ -1,0 +1,25 @@
+# Base image.]
+FROM node:22.7.0-alpine
+
+# Set evironment variables.
+ENV LANG=C.UTF-8
+
+# Set up working directory.
+WORKDIR /app
+
+# Copy package.json file to working directory.
+COPY /src${NEXTJS_SRC_DIR}/package.json .
+
+# Install packages.
+RUN npm install
+#RUN yarn
+
+# Copy directory.
+COPY /src${NEXTJS_SRC_DIR} .
+
+# Document exposed port.
+EXPOSE ${NEXTJS_PORT}
+
+# Start app.
+CMD ["npm", "run", "dev"]
+#CMD　["yarn", "dev"]
