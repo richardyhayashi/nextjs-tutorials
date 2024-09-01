@@ -10,7 +10,7 @@ Source:
 3. Project Structure
 4. Before We Start
 5. Routing
-6.
+6. Nested Routes
 7.
 8.
 9.
