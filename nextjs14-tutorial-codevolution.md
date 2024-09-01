@@ -12,7 +12,7 @@ Source:
 5. Routing
 6. Nested Routes
 7. Dynamic Routes
-8.
+8. Nested Dynamic Routes
 9.
 10.
 
