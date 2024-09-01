@@ -10,7 +10,7 @@ React Framework
 
 1. Routing
 2. API routes
-3. Rendering
+3. Rendering; server-side, client-side
 4. Data Fetching
 5. Styling
 6. Optimization
@@ -26,3 +26,7 @@ In base folder:
 ### Stop Containers
 
 `$ docker compose down`
+
+### Access
+
+'http://localhost:8080'
