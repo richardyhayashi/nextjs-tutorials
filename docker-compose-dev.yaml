@@ -19,13 +19,14 @@ services:
     build:
       dockerfile: Dockerfile.dev
       args:
-        - NEXTJS_PORT:${NEXTJS_PORT}
-        - NEXTJS_SRC_DIR=${NEXTJS_SRC_DIR}
+        NEXTJS_PORT: ${NEXTJS_PORT}
+        NEXTJS_SRC_DIR: ${NEXTJS_SRC_DIR}
     restart: unless-stopped
     #ports:
     #  - ${NEXTJS_PORT_OUT}:${NEXTJS_PORT}
     volumes:
-      - ./src:/app
+      - ./src${NEXTJS_SRC_DIR}:/app
+      - dot_next:/app/.next
       - node_modules:/app/node_modules
     environment:
       - NODE_ENV=development
@@ -35,4 +36,5 @@ services:
       - nginx
 
 volumes:
+  dot_next:
   node_modules:

@@ -17,3 +17,7 @@ Source:
 10.
 
 ## Notes
+
+### Create NextJS App
+
+`$ npx create-next-app@latest .`

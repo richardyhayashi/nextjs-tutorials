@@ -4,6 +4,10 @@ FROM node:22.7.0-alpine
 # Set evironment variables.
 ENV LANG=C.UTF-8
 
+# Set Arguments.
+ARG NEXTJS_PORT
+ARG NEXTJS_SRC_DIR
+
 # Set up working directory.
 WORKDIR /app
 
