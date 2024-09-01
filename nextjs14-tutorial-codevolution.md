@@ -11,7 +11,7 @@ Source:
 4. Before We Start
 5. Routing
 6. Nested Routes
-7.
+7. Dynamic Routes
 8.
 9.
 10.
