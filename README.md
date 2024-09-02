@@ -2,9 +2,9 @@
 
 React Framework
 
-* [Next.js React Framework Course](nextjs-framework-course-fcc.md)
-* [Building REST APIs with Next.js 14](nextjs14-building-rest-api-fcc.md)
 * [Next.js 14 Tutorial](nextjs14-tutorial-codevolution.md)
+* [Building REST APIs with Next.js 14](nextjs14-building-rest-api-fcc.md)
+
 
 ## Features
 
@@ -30,3 +30,9 @@ In base folder:
 ### Access
 
 'http://localhost:8080'
+
+## Git Notes
+
+`$ git push origin {branch-name} {-f|--force}` - Force push
+`$ git push origin --delete {branch-name}` - Remove remote branch
+`$ git branch -d --remote origin/{branch-name}` - Remove remote branch connection
