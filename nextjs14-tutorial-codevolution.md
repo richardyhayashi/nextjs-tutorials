@@ -13,8 +13,18 @@ Source:
 6. Nested Routes
 7. Dynamic Routes
 8. Nested Dynamic Routes
-9.
+9. Catch all Segments
 10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
 
 ## Notes
 
