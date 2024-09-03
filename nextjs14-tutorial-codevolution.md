@@ -17,9 +17,9 @@ Source:
 9.  Catch all Segments
 10. Not Found Page
 11. File Colocation
-12.
-13.
-14.
+12. Private Folders
+13. Route Groups
+14. Layouts
 15.
 16.
 17.
