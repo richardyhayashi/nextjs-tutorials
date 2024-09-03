@@ -16,7 +16,7 @@ Source:
 8.  Nested Dynamic Routes
 9.  Catch all Segments
 10. Not Found Page
-11.
+11. File Colocation
 12.
 13.
 14.
