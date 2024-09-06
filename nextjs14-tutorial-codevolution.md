@@ -1,5 +1,4 @@
 # Next.js 14 Tutorial
-
 by `Codevolution`
 
 YouTube:
@@ -20,12 +19,13 @@ Source:
 12. Private Folders
 13. Route Groups
 14. Layouts
-15.
+15. Nested Layouts
 16.
 17.
 18.
 19.
 20.
+
 
 ## Notes
 
