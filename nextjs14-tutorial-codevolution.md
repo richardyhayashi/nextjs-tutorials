@@ -1,10 +1,9 @@
 # Next.js 14 Tutorial
-
 by `Codevolution`
 
-YouTube:
+YouTube: `https://www.youtube.com/watch?v=ZjAqacIC_3c&list=PLC3y8-rFHvwjOKd6gdf4QtV1uYNiQnruI&index=1`
 
-Source:
+Source: 'https://github.com/gopinav/Next.js-14-Tutorials'
 
 1.  Introduction
 2.  Hello World
@@ -26,7 +25,7 @@ Source:
 18. title Metadata
 19. Link Component Navigation
 20. Active Links
-21.
+21. Navigating Programmatically
 22.
 23.
 24.
