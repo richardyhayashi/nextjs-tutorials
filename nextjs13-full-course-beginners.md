@@ -3,17 +3,18 @@ by `Dave Gray`
 
 YouTube: `https://www.youtube.com/watch?v=843nec-IvW0&t=61s`
 
-Source: 'https://www.youtube.com/watch?v=843nec-IvW0&t=61s'
+Source: 'https://github.com/gitdagray/next-js-course'
 
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
+ x. Intro
+01.
+02.
+03.
+04.
+05.
+06.
+07.
+08.
+09.
 10.
 
 ## Notes
