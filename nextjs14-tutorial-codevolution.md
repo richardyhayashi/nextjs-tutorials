@@ -27,7 +27,7 @@ Source: 'https://github.com/gopinav/Next.js-14-Tutorials'
 20. Active Links
 21. Navigating Programmatically
 22. Templates
-23.
+23. Loading UI
 24.
 25.
 26.
@@ -57,6 +57,8 @@ Source: 'https://github.com/gopinav/Next.js-14-Tutorials'
 * Page file - page.tsx
 * Layout file - layout.tsx
 * Template file - template.tsx
+* Not Found file - not-found.tsx
+* Loading file - loading.tsx
 
 ### Components
 
