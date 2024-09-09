@@ -26,7 +26,7 @@ Source: 'https://github.com/gopinav/Next.js-14-Tutorials'
 19. Link Component Navigation
 20. Active Links
 21. Navigating Programmatically
-22.
+22. Templates
 23.
 24.
 25.
@@ -51,6 +51,12 @@ Source: 'https://github.com/gopinav/Next.js-14-Tutorials'
 ### Create NextJS App
 
 `$ npx create-next-app@latest .`
+
+### Components
+
+* Page file - page.tsx
+* Layout file - layout.tsx
+* Template file - template.tsx
 
 ### Components
 
