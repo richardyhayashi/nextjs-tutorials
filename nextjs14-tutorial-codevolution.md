@@ -35,7 +35,7 @@ Source: 'https://github.com/gopinav/Next.js-14-Tutorials'
 28. Parallel Routes
 29. Unmatched Routes
 30. Conditional Routes
-31.
+31. Intercepting Routes
 32.
 33.
 34.
@@ -76,3 +76,10 @@ RSC - React Server Components
 
 - Server Components - Can: run tasks; read files, fetch data from DB, Cannot: use hooks or handle user interaction
 - Client Components - Cannot: read files, Can: use hooks, mange interactions
+
+### Intercepting Route Conventions
+
+(.)       - same level
+(..)      - one level above
+(..)(..)  - two levels above
+(...)     - root app directory
