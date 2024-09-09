@@ -1,3 +1,4 @@
+import { redirect } from "next/navigation";
 import { comments } from "../data";
 
 //
@@ -5,6 +6,10 @@ export async function GET(
   _request: Request,
   { params }: { params: { id: string } }
 ) {
+  if (parseInt(params.id) > comments.length) {
+    redirect("/comments");
+  }
+
   const comment = comments.find(
     (comment) => comment.id === parseInt(params.id)
   );
@@ -19,9 +24,9 @@ export async function PATCH(
 ) {
   const { text } = await request.json();
   const index = comments.findIndex(
-    comment => comment.id === parseInt(params.id)
+    (comment) => comment.id === parseInt(params.id)
   );
-  comments[index].text = text
+  comments[index].text = text;
 
   return Response.json(comments[index]);
 }
