@@ -28,7 +28,7 @@ Source: 'https://github.com/gopinav/Next.js-14-Tutorials'
 21. Navigating Programmatically
 22. Templates
 23. Loading UI
-24.
+24. Error Handling
 25.
 26.
 27.
@@ -59,6 +59,16 @@ Source: 'https://github.com/gopinav/Next.js-14-Tutorials'
 * Template file - template.tsx
 * Not Found file - not-found.tsx
 * Loading file - loading.tsx
+* Error handling - error.tsx
+
+#### Hierarchy
+
+1. layout.tsx
+2. template.tsx
+3. error.tsx
+4. loading.tsx
+5. not-found.tsx
+6. page.tsx
 
 ### Components
 
