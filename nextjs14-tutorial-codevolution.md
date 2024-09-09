@@ -5,15 +5,15 @@ YouTube: `https://www.youtube.com/watch?v=ZjAqacIC_3c&list=PLC3y8-rFHvwjOKd6gdf4
 
 Source: 'https://github.com/gopinav/Next.js-14-Tutorials'
 
-1.  Introduction
-2.  Hello World
-3.  Project Structure
-4.  Before We Start
-5.  Routing
-6.  Nested Routes
-7.  Dynamic Routes
-8.  Nested Dynamic Routes
-9.  Catch all Segments
+01. Introduction
+02. Hello World
+03. Project Structure
+04. Before We Start
+05. Routing
+06. Nested Routes
+07. Dynamic Routes
+08. Nested Dynamic Routes
+09. Catch all Segments
 10. Not Found Page
 11. File Colocation
 12. Private Folders
@@ -37,7 +37,7 @@ Source: 'https://github.com/gopinav/Next.js-14-Tutorials'
 30. Conditional Routes
 31. Intercepting Routes
 32. Parallel Intercepting Routes
-33.
+33. Route Handlers
 34.
 35.
 36.
@@ -45,6 +45,27 @@ Source: 'https://github.com/gopinav/Next.js-14-Tutorials'
 38.
 39.
 40.
+41.
+42.
+43.
+44.
+45.
+46.
+47.
+48.
+49.
+50.
+51.
+52.
+53.
+54.
+55.
+56.
+57.
+58.
+59.
+60.
+
 
 ## Notes
 
