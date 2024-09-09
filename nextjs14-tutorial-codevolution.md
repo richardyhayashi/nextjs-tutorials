@@ -1,19 +1,20 @@
 # Next.js 14 Tutorial
+
 by `Codevolution`
 
 YouTube: `https://www.youtube.com/watch?v=ZjAqacIC_3c&list=PLC3y8-rFHvwjOKd6gdf4QtV1uYNiQnruI&index=1`
 
 Source: 'https://github.com/gopinav/Next.js-14-Tutorials'
 
-01. Introduction
-02. Hello World
-03. Project Structure
-04. Before We Start
-05. Routing
-06. Nested Routes
-07. Dynamic Routes
-08. Nested Dynamic Routes
-09. Catch all Segments
+1.  Introduction
+2.  Hello World
+3.  Project Structure
+4.  Before We Start
+5.  Routing
+6.  Nested Routes
+7.  Dynamic Routes
+8.  Nested Dynamic Routes
+9.  Catch all Segments
 10. Not Found Page
 11. File Colocation
 12. Private Folders
@@ -45,7 +46,7 @@ Source: 'https://github.com/gopinav/Next.js-14-Tutorials'
 38. Handling DELETE Request
 39. URL Query Parameters
 40. Redirects in Route Handlers
-41.
+41. Headers in Route Handlers
 42.
 43.
 44.
@@ -66,7 +67,6 @@ Source: 'https://github.com/gopinav/Next.js-14-Tutorials'
 59.
 60.
 
-
 ## Notes
 
 ### Create NextJS App
@@ -75,12 +75,12 @@ Source: 'https://github.com/gopinav/Next.js-14-Tutorials'
 
 ### Components
 
-* Page file - page.tsx
-* Layout file - layout.tsx
-* Template file - template.tsx
-* Not Found file - not-found.tsx
-* Loading file - loading.tsx
-* Error handling - error.tsx
+- Page file - page.tsx
+- Layout file - layout.tsx
+- Template file - template.tsx
+- Not Found file - not-found.tsx
+- Loading file - loading.tsx
+- Error handling - error.tsx
 
 #### Hierarchy
 
@@ -100,7 +100,7 @@ RSC - React Server Components
 
 ### Intercepting Route Conventions
 
-(.)       - same level
-(..)      - one level above
-(..)(..)  - two levels above
-(...)     - root app directory
+(.) - same level
+(..) - one level above
+(..)(..) - two levels above
+(...) - root app directory
