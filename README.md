@@ -32,6 +32,11 @@ In base folder:
 
 'http://localhost:8080'
 
+
+## Vs Code
+
+`tsrafce` - 
+
 ## Git Notes
 
 `$ git push origin {branch-name} {-f|--force}` - Force push
