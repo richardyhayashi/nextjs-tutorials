@@ -39,7 +39,7 @@ Source: 'https://github.com/gopinav/Next.js-14-Tutorials'
 32. Parallel Intercepting Routes
 33. Route Handlers
 34. Handling GET Request
-35.
+35. Handling POST Request
 36.
 37.
 38.
